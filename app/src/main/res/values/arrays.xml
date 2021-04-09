@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="monsters1">array</string-array>
+    <string-array name="Class">Class</string-array>
+    <string-array name="Cleric">Cleric</string-array>
+    <string-array name="Swordsman">Swordsmna</string-array>
+    <string-array name="Archer">Archer</string-array>
+    <string-array name="BattleMage">BattleMage</string-array>
+</resources>
